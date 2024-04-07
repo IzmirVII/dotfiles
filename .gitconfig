@@ -1,0 +1,12 @@
+[user]
+    name = IZMIR VII
+    email = izmirvii@gmail.com
+
+[core]
+    editor = nvim
+
+[init]
+    defaultBranch = main
+
+#[includeIf "gitdir:~/work/"]
+#    path = .gitconfig-other
