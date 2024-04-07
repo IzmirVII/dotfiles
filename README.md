@@ -12,7 +12,7 @@
 |pipewire-audio|pipewire audo client|
 |pipewire-jack|pipewire jack client|
 |pipewire-pulse|pipewire pulseaudio client|
-|gst-pulse-pipewire|pipewire gstreamer client|
+|gst-plugin-pipewire|pipewire gstreamer client|
 |alsa-utils|alsa cli mixer|
 |networkmanager|network manager|
 |bluez|bluetooth protocol stack|

@@ -1,5 +1,28 @@
+live_config_reload = true
+
 import = [
-    "~/.config/alacritty/themes/gruvbox_dark.toml"
+    "~/.config/alacritty/themes/gruvbox-dark.toml",
 ]
 
+[window]
+padding = {x = 5, y = 5}
+opacity = 0.8
+decorations = 'none'
 
+[scrolling]
+history = 10000
+multiplier = 3
+
+[font]
+normal.family = 'JetBrains Mono NL'
+normal.style = 'Regular'
+size = 14
+
+[selection]
+save_to_clipboard = true
+
+[shell]
+program = '/bin/nu'
+
+[mouse]
+hide_when_typing = true

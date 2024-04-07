@@ -1,5 +1,5 @@
 [default]
-path = "/home/izmir/wallpapers/"
+path = "/home/izmir/dotfiles/wallpapers/"
 duration = "1h"
 applu-shadow = true
 sorting = "random"
